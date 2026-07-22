@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/images/
+data/model.joblib
+.pytest_cache/
+.venv/
+*.egg-info/
